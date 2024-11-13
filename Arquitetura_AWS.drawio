@@ -34,12 +34,6 @@
         <mxCell id="SCVMTBWpLvtzJIhz15lM-1" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KcYLGZ2GjR2jxuOkW4ey-61" value="AWS Cloud" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="1985" width="1649" height="661" as="geometry" />
-        </mxCell>
-        <mxCell id="KcYLGZ2GjR2jxuOkW4ey-62" value="Notificações Outbound" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="76.5" y="2356" width="636" height="116" as="geometry" />
-        </mxCell>
         <mxCell id="KcYLGZ2GjR2jxuOkW4ey-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KcYLGZ2GjR2jxuOkW4ey-156" target="KcYLGZ2GjR2jxuOkW4ey-159" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
